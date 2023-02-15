@@ -1,0 +1,3 @@
+Akshay Manager 35000
+Ramesh  Executive  48000
+Sumesh	chief	58000
