@@ -253,3 +253,6 @@ clear
 git init
 git add *
 git push --set-upstream https://github.com/ameenshoaib/newrepo.git master
+ls
+git init
+git commit
